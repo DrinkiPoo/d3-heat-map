@@ -1,0 +1,21 @@
+body {
+  width: 1500px;
+  margin: 10px 0;
+}
+#container {
+  margin-top: 25px;
+}
+
+#title {
+  font-size: x-large;
+  font-weight: bolder;
+}
+
+#description {
+  font-size: large;
+  font-weight: bold;
+}
+
+svg {
+  margin-top: 25px;
+}
